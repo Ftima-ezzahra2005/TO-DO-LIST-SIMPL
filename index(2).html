@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CyphX | Task System</title>
+  <link rel="stylesheet" href="ctyle(2).css">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- TOP BAR -->
+  <header class="top-bar">
+    <div class="brand">
+      Cyph<span>X</span>
+    </div>
+
+    <div class="brand-logo">
+      <img src="logo.png_1.png" alt="CyphX Logo">
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <div class="container">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar glass">
+      <h3>Total Tasks</h3>
+
+      <div class="task-circle">
+        <span id="totalTasks">0</span>
+      </div>
+
+      <ul id="taskListSidebar"></ul>
+    </aside>
+
+    <!-- CONTENT -->
+    <main class="content">
+      <h2>Cyber Tasks</h2>
+
+      <div class="add-task glass">
+        <input type="text" id="taskInput" placeholder="Create a new task...">
+        <button onclick="addTask()">+</button>
+      </div>
+
+      <div id="tasksContainer"></div>
+    </main>
+
+  </div>
+
+  <script src="script(1).js"></script>
+</body>
+</html>
