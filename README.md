@@ -14,7 +14,7 @@ Ce projet permet à l'utilisateur d’organiser ses tâches de manière simple e
 - Interface simple et responsive
 
 ## Screenshots
-
+![Aperçu](to so list simple.png)
 
 ## Réalisé par
 ZAGHLOUL Fatima-ezzahra
