@@ -15,6 +15,7 @@ Ce projet permet à l'utilisateur d’organiser ses tâches de manière simple e
 
 ## Screenshots
 ![Aperçu](liste de tâches simple.png)
+![Aperçu](liste de tâches simple(2).png)
 
 ## Réalisé par
 ZAGHLOUL Fatima-ezzahra
